@@ -1,0 +1,45 @@
+@RELATION CriterioDiabetico
+@ATTRIBUTE Glicose Integer
+@ATTRIBUTE Peso Integer
+@ATTRIBUTE resultado {Diabetico,NaoDiabetico}
+@DATA
+110,70,NaoDiabetico
+150,85,Diabetico
+130,75,NaoDiabetico
+180,90,Diabetico
+140,80,Diabetico
+160,82,Diabetico
+120,68,NaoDiabetico
+190,95,Diabetico
+135,78,Diabetico
+170,88,Diabetico
+145,79,Diabetico
+155,83,Diabetico
+125,72,NaoDiabetico
+165,87,Diabetico
+115,69,NaoDiabetico
+175,89,Diabetico
+105,67,NaoDiabetico
+185,93,Diabetico
+112,66,NaoDiabetico
+195,96,Diabetico
+110,71,NaoDiabetico
+152,84,Diabetico
+128,76,NaoDiabetico
+182,89,Diabetico
+142,81,Diabetico
+158,80,Diabetico
+121,69,NaoDiabetico
+192,94,Diabetico
+133,77,Diabetico
+168,86,Diabetico
+147,78,Diabetico
+157,82,Diabetico
+123,71,NaoDiabetico
+167,85,Diabetico
+117,68,NaoDiabetico
+178,88,Diabetico
+107,66,NaoDiabetico
+183,91,Diabetico
+113,65,NaoDiabetico
+197,95,Diabetico
